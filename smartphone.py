@@ -187,7 +187,7 @@ elif gk=='CategoryWise-Analysis':
     )
     st.plotly_chart(fig)
 else:
-    st.header("📊 Global Smartphone Market Overview")
+    st.header("📊 Indian Smartphone Market Overview")
 
     total_smartphones = data.shape[0]
     avg_price = data["price"].mean()
