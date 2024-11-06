@@ -82,6 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/divyam-khetan-915976272/).
 
---- 
 
-This README provides a full overview of the project and serves as a guide for users and contributors.
